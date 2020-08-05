@@ -47,6 +47,6 @@ The CAD files for the housing are in the folder `CAD`.
 
 
 ## Support ##
-Contact [Dhruv Jain](www.dhruvjain.info) through email `djain@cs.washington.edu`. This project is developed with collaborators at the [UW Makeability Lab](https://makeabilitylab.cs.washington.edu/) and the [MIT Media Lab's Living Mobile Group](https://www.media.mit.edu/groups/living-mobile/overview/).
+Contact [Dhruv Jain](http://dhruvjain.info) through email `djain@cs.washington.edu`. This project is developed with collaborators at the [UW Makeability Lab](https://makeabilitylab.cs.washington.edu/) and the [MIT Media Lab's Living Mobile Group](https://www.media.mit.edu/groups/living-mobile/overview/).
 
 Drop us a note if you are using or plan to use Vibes for research purposes. We are happy to help with any questions.
