@@ -35,9 +35,9 @@ The PCB files are included in the folder `PCB`.
 
 The software, written in C for [trinket microcontroller](https://www.adafruit.com/product/1500), processed the audio signal. The built-in analog-to-digital convertor received the analog signal from the breakout board, sampled it at 32kHz, and mapped the output to the full voltage range of the vibration motor (1.1–3.6V) using a linear function of sound pressure (Pa) to voltage (V) (see figure below). We used a loudness threshold of 50dB (6.3x10-3 Pa) to filter common background noises (e.g., AC or refrigerator hum) which occur just below 50dB. To do so, we played a 50dB sound from a computer at 500Hz and used the measured microphone output as the minimum value to trigger the vibration motor. This threshold was determined during a five-week pilot with the hard of hearing team member The resultant mapping was 6.3x10-3Pa (50dB)–2.0Pa (100dB) to 1.1–3.6V.
 
-The C code for the trinket microcontroller appears in the folder `Code`.
+<img src="Images/Voltage-PressureGraph.png" width="60%" alt="A linear graph showing how voltage various with sound pressure. Values of Sound Pressure, Voltage are: 50dB, 1.1V; 80dB, 1.3V; 90dB, 1.9V; 100dB, 3.6V">
 
-<img src="Images/Voltage-PressureGraph.png" width="70%" alt="A linear graph showing how voltage various with sound pressure. Values of Sound Pressure, Voltage are: 50dB, 1.1V; 80dB, 1.3V; 90dB, 1.9V; 100dB, 3.6V">
+The C code for the trinket microcontroller appears in the folder `Code`.
 
 ## Housing ##
 
