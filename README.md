@@ -37,8 +37,7 @@ The software, written in C for [trinket microcontroller](https://www.adafruit.co
 
 The C code for the trinket microcontroller appears in the folder `Code`.
 
-![A linear graph showing how voltage various with sound pressure. Values of Sound Pressure, Voltage are: 50dB, 1.1V; 80dB, 1.3V; 90dB, 1.9V; 100dB, 3.6V.](Images/Voltage-PressureGraph.png?raw=true "Voltage response graph based on sound pressure"){:width="50%"}
-
+<img src="Images/Voltage-PressureGraph.png" width="50%" alt="A linear graph showing how voltage various with sound pressure. Values of Sound Pressure, Voltage are: 50dB, 1.1V; 80dB, 1.3V; 90dB, 1.9V; 100dB, 3.6V">
 
 ## Housing ##
 
