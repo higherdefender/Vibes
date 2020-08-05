@@ -1,0 +1,11 @@
+# HOUSING DIMENSIONS
+26mm (height)
+40mm (length)
+33mm (width) 
+
+bottom center hole: 12mm
+top right center hole: 10mm
+
+# LASER CUT SPEED AND POWER
+Blue wood (1/8", 3mm) = 20/40/500
+Blue wood (1/4", 6mm) = 35/38/500 (38=40 for smooth cut)
