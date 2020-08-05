@@ -9,6 +9,7 @@ Vibes is a wrist-worn device that senses ambient sound and emits a vibration pro
 
 [[Paper PDF](https://homes.cs.washington.edu/~djain/img/portfolio/Jain_Vibes_ISWC2020.pdf)]
 
+
 ![The leftmost picture shows a preliminary wrist-worn prototype with many wires coming out. The second picture is a more professional looking prototype with a laser cut housing. The third picture shows the smallest 3-D printed prototype (final device used for our deployments). The rightmost picture shows the hardware inside of the 3-D printed prototype: a printed circuit board with electronic components including a mic, microcontroller, battery, charger and an on/off switch.](Images/VibesPrototypes.png?raw=true "The three iterative prototypes of Vibes.")
 While designing Vibes, we performed three major iterations . The iterations improved the prototype hardware (e.g., adding rechargeable battery from prototype B onwards), software (e.g., adding a loudness threshold from Prototype B), and housing (e.g., a more versatile casing). The final prototype costs $45 USD in parts, takes four hours to charge, and lasts for about 24 hours of continuous use. Below, we explain our design details and the repository structure. 
 
